@@ -1,0 +1,99 @@
+{
+    "profiles": [
+        {
+            "id": 1,
+            "username": "Kutay",
+            "email": "kutaybuyukkorukcu@gmail.com",
+            "bio": "Yet another dev",
+            "image": "https://i.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        },
+        {
+            "id": 2,
+            "username": "BOT",
+            "email": "bot@gmail.com",
+            "bio": "Yet another bot",
+            "image": "https://i.picsum.photos/id/755/200/300.jpg?grayscale&hmac=kqUJ9sFDXeh87ArUqqz1Y39SPijqiH2jnVUCyT1KirU"
+        }
+    ],
+    "users": [
+        {
+        "id": 1,
+        "email": "kutaybuyukkorukcu@gmail.com",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Imt1dGF5YnV5dWtrb3J1a2N1QGdtYWlsLmNvbSIsImFwcCI6Im1lZGl1bS1jbG9uZSJ9.D2cJ97CzZdMq8REpMKl-IO5oi9aAvbp7mGAYvQCwqxA",
+        "username": "Kutay", 
+        "image": "https://i.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        }
+    ],
+    "articles": {
+        "articles": [
+            {
+                "id": 1,
+                "crumb": "NGX-CHARTS_WRAPPER",
+                "title": "Ngx-Charts Wrapper",
+                "description": "A clear and easy way to implement charts in your app!",
+                "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "tagList": ["angular", "frontend", "development", "chartjs", "UI/UX"],
+                "createdAt": "2021-5-14T14:08:23",
+                "updatedAt": "",
+                "likeCount": 2,
+                "author": {
+                    "username": "Kutay",
+                    "image": "https://i.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+                }
+            },
+            {
+                "id": 2,
+                "crumb": "NGX-BOOTSTRAP_DATETIMERANGERPICKER",
+                "title": "Ngx-Bootstrap Datetimerangepicker",
+                "description": "Creating a daterangepicker with time select support",
+                "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "tagList": ["angular", "frontend", "development", "bootstrap", "UI/UX"],
+                "createdAt": "",
+                "updatedAt": "",
+                "likeCount": 0,
+                "author": {
+                    "username": "Kutay",
+                    "image": "https://i.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+                }
+            }
+        ],
+        "count": 2
+    },
+    "comments": {
+        "comments": [
+            {
+                "id": 1,
+                "createdAt": "2021-5-14T14:16:58",
+                "updatedAt": "",
+                "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "author": {
+                    "username": "BOT",
+                    "image": "https://i.picsum.photos/id/755/200/300.jpg?grayscale&hmac=kqUJ9sFDXeh87ArUqqz1Y39SPijqiH2jnVUCyT1KirU"
+                }
+            },
+            {
+                "id": 2,
+                "createdAt": "2021-5-14T14:18:34",
+                "updatedAt": "",
+                "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "author": {
+                    "username": "Kutay",
+                    "image": "https://i.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+                }
+            }
+        ],
+        "count": 2
+    },
+    "tags": [
+        "angular",
+        "frontend",
+        "bootstrap",
+        "chartjs",
+        "development",
+        "UI/UX"
+    ],
+    "errors": {
+        "noDataToDisplay": "No data to display",
+        "noCommentToDisplay": "No comment to display"
+    }
+}
