@@ -39,7 +39,8 @@
                 "author": {
                     "username": "Kutay",
                     "image": "https://i.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
-                }
+                },
+                "likedBy": [1, 2]
             },
             {
                 "id": 2,
@@ -54,7 +55,8 @@
                 "author": {
                     "username": "Kutay",
                     "image": "https://i.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
-                }
+                },
+                "likedBy": []
             }
         ],
         "count": 2
@@ -69,7 +71,8 @@
                 "author": {
                     "username": "BOT",
                     "image": "https://i.picsum.photos/id/755/200/300.jpg?grayscale&hmac=kqUJ9sFDXeh87ArUqqz1Y39SPijqiH2jnVUCyT1KirU"
-                }
+                },
+                "likedBy": [1, 2]
             },
             {
                 "id": 2,
@@ -79,7 +82,8 @@
                 "author": {
                     "username": "Kutay",
                     "image": "https://i.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
-                }
+                },
+                "likedBy": []
             }
         ],
         "count": 2
