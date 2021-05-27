@@ -1,0 +1,97 @@
+{
+  "singledataset": {
+    "totalDataCount": 15,
+    "singleDataSet": [
+        {
+            "data": 5,
+            "label": "Dataset1"
+        },
+        {
+            "data": 4,
+            "label": "Dataset2"
+        },
+        {
+            "data": 3,
+            "label": "Dataset3"
+        },
+        {
+            "data": 2,
+            "label": "Dataset4"
+        },
+        {
+            "data": 1,
+            "label": "Dataset5"
+        }
+    ]
+},
+"multidataset": [
+    {
+        "totalDataCount": 21,
+        "multiDataSet": [
+            {
+                "data": 0,
+                "timeInterval": 1
+            },
+            {
+                "data": 1,
+                "timeInterval": 2
+            },
+            {
+                "data": 2,
+                "timeInterval": 3
+            },
+            {
+                "data": 3,
+                "timeInterval": 4
+            },
+            {
+                "data": 4,
+                "timeInterval": 5
+            },
+            {
+                "data": 5,
+                "timeInterval": 6
+            },
+            {
+                "data": 6,
+                "timeInterval": 7
+            }
+        ],
+        "label": "Dataset1"
+    },
+    {
+        "totalDataCount": 43,
+        "multiDataSet": [
+            {
+                "data": 1,
+                "timeInterval": 1
+            },
+            {
+                "data": 2,
+                "timeInterval": 2
+            },
+            {
+                "data": 4,
+                "timeInterval": 3
+            },
+            {
+                "data": 6,
+                "timeInterval": 4
+            },
+            {
+                "data": 8,
+                "timeInterval": 5
+            },
+            {
+                "data": 10,
+                "timeInterval": 6
+            },
+            {
+                "data": 12,
+                "timeInterval": 7
+            }
+        ],
+        "label": "Dataset2"
+    }
+  ]
+}
